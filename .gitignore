@@ -1,0 +1,8 @@
+# Binaries and object files
+*.exe
+*.o
+*.obj
+
+# Editor configurations
+.vscode/
+.idea/
